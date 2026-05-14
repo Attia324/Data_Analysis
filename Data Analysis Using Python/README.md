@@ -22,9 +22,6 @@ Based on the visualizations, here are some critical findings:
 3.  **Customer Insights:** **Female shoppers** contribute slightly more to the total revenue compared to male shoppers.
 4.  **Quarterly Performance:** Q2 and Q4 showed the strongest performance, likely due to seasonal demand.
 
-## 🖼️ Dashboard Preview
-![Dashboard Layout](![alt text](image.png)) 
-
 ## 📂 Project Structure
 *   `Analysis.ipynb`: The main notebook containing the data cleaning and visualization code.
 *   `retail_sales.csv`: The dataset used for analysis.
