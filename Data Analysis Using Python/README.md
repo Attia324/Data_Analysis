@@ -23,13 +23,12 @@ Based on the visualizations, here are some critical findings:
 4.  **Quarterly Performance:** Q2 and Q4 showed the strongest performance, likely due to seasonal demand.
 
 ## 🖼️ Dashboard Preview
-![Dashboard Layout](image_86ce5a.png) 
-*(Note: Replace this with the link to your uploaded image on GitHub)*
+![Dashboard Layout](![alt text](image.png)) 
 
 ## 📂 Project Structure
 *   `Analysis.ipynb`: The main notebook containing the data cleaning and visualization code.
 *   `retail_sales.csv`: The dataset used for analysis.
-*   `output/`: Folder containing exported charts and the final dashboard image.
+*   `output/`: Folder containing  final dashboard image.
 
 ## 👩‍💻 About Me
 I am a **Computer Science student** and aspiring **Machine Learning Engineer**. I enjoy turning data into stories and am constantly learning new techniques in Applied ML and Data Science.
